@@ -1,4 +1,5 @@
 # KnowledgeMiningWithSceneText
+If you find our paper or dataset helpful, please consider starring this repo. Thank you very much!
 ## Crowd Activity Dataset
 ![example](https://user-images.githubusercontent.com/33376945/160324328-57f3e81e-815e-4664-8685-3201e0b7919a.png)
 ### Introduction
